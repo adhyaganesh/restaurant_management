@@ -1,0 +1,25 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+.h-font{
+    font-family: 'Finger Paint', cursive;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.custom-bg{
+    background:#f7d3c6 ;
+}
+.custom-bg:hover{
+    background-color: antiquewhite;
+}
+body{
+    overflow-x: hidden;
+}
+.h-line{
+    width:150px;
+    margin:0 auto;
+    height: 1.7px;
+}
